@@ -10,9 +10,9 @@ return chocolateBars;
 }
 
 function addElementToEndOfArray(){
-  
+
 }
 
 function destructivelyAddElementToEndOfArray(){
-  
+
 }
