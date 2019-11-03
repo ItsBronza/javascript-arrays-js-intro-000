@@ -18,6 +18,6 @@ chocolateBars.push(candy);
 return chocolateBars;
 }
 
-function accessElementInArray(chocolateBars, candy){
-return chocolateBars[candy];
+function accessElementInArray(chocolateBars, index){
+return chocolateBars[index];
 }
