@@ -27,5 +27,5 @@ chocolateBars.shift(candy);
 }
 
 function removeElementFromBeginningOfArray(chocolateBars, candy){
-chocolateBars.slice(candy);  
+chocolateBars.slice(candy);
 }
