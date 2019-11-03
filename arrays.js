@@ -23,15 +23,15 @@ return chocolateBars[index];
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(chocolateBars, candy){
-chocolateBars.shift(candy);
+return chocolateBars.shift(candy);
 }
 
 function removeElementFromBeginningOfArray(chocolateBars){
-chocolateBars.slice(1);
+return chocolateBars.slice(1);
 }
 
 function destructivelyRemoveElementFromEndOfArray(chocolateBars){
-chocolateBars.pop(1);
+return chocolateBars.pop(1);
 }
 
 function removeElementFromEndOfArray(chocolateBars){
