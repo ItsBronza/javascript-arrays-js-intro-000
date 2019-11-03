@@ -4,5 +4,5 @@ elements.push('four');
 }
 
 function destructivelyAddElementToBeginningOfArray(){
-  
+
 }
