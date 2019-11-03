@@ -19,5 +19,5 @@ return chocolateBars;
 }
 
 function accessElementInArray(chocolateBars, candy){
-console.log(chocolateBars[0]);
+return chocolateBars[candy];
 }
