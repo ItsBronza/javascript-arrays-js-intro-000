@@ -31,5 +31,5 @@ chocolateBars.slice(1);
 }
 
 function destructivelyRemoveElementFromEndOfArray(chocolateBars) {
-chocolateBars.pop(1);  
+chocolateBars.pop(1);
 }
