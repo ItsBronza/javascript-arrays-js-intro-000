@@ -4,7 +4,7 @@ function addElementToBeginningOfArray(chocolateBars, candy){
 return ['candy' ... chocolateBars];
 }
 
-function destructivelyAddElementToBeginningOfArray(){
-var fruits = ['orange', 'banana', 'apple'];
-elements.unshift('tangerine');
+function destructivelyAddElementToBeginningOfArray(chocolateBars, candy){
+chocolateBars.unshift('candy');
+return chocolateBars;
 }
