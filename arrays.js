@@ -29,3 +29,7 @@ chocolateBars.shift(candy);
 function removeElementFromBeginningOfArray(chocolateBars){
 chocolateBars.slice(1);
 }
+
+function destructivelyRemoveElementFromEndOfArray(chocolateBars) {
+chocolateBars.pop(1);  
+}
