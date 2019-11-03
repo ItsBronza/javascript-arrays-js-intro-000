@@ -37,3 +37,4 @@ chocolateBars.pop(1);
 function removeElementFromEndOfArray(chocolateBars){
 chocolateBars.slice(1, chocolateBars.length - 1);
 }
+
