@@ -9,10 +9,10 @@ chocolateBars.unshift(candy);
 return chocolateBars;
 }
 
-function addElementToEndOfArray(){
+function addElementToEndOfArray(chocolateBars, candy){
 
 }
 
-function destructivelyAddElementToEndOfArray(){
+function destructivelyAddElementToEndOfArray(chocolateBars, candy){
 
 }
